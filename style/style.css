@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+header {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+nav {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 39em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+section {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+#portrait {
+    width:8em;
+    height: auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 800px;
+    left: 50%;
+    margin-left: -400px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: .7em;
+}
+#postal-address {
+    float: left;
+    text-align: left;
+    margin-top: 0em;
+    margin-right: 4em;
+}
+#contact {
+    float: right;
+    text-align: left;
+    margin-top: 0em;
+}
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: DarkGoldenRod;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
