@@ -1,2 +1,1 @@
-# LauraCruzReyes.github.io
-Personal Webpage.
+# Personal webpage
