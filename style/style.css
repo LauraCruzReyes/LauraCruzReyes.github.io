@@ -25,11 +25,11 @@ section {
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
+    position: relative;
     width: 800px;
     left: 50%;
     margin-left: -400px;
+    margin-top: 3em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: .7em;
@@ -38,7 +38,7 @@ footer {
     float: left;
     text-align: left;
     margin-top: 0em;
-    margin-right: 4em;
+    margin-left: 1em;
 }
 #contact {
     float: right;
