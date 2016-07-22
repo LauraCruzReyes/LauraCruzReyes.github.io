@@ -7,20 +7,34 @@ header {
     font-weight: 300;
 }
 nav {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 39em;
+    float: left;
+    position: relative;
+    left: 50%;
+
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
 }
+nav ul{
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
 section {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
     font-weight: 300;
 }
+
+#image{
+    margin-top: 5em;
+    margin-bottom: 1em;
+    width: 100%;
+}
 #portrait {
-    width:8em;
+    width:11em;
     height: auto;
 }
 
