@@ -7,18 +7,12 @@ header {
     font-weight: 300;
 }
 nav {
-    float: left;
-    position: relative;
-    left: 50%;
+    margin: 0 auto;
+    text-align: center;
 
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-}
-nav ul{
-    float: left;
-    position: relative;
-    left: -50%;
 }
 
 section {
@@ -29,7 +23,7 @@ section {
 }
 
 #image{
-    margin-top: 5em;
+    margin-top: 1em;
     margin-bottom: 1em;
     width: 100%;
 }
@@ -74,23 +68,28 @@ footer {
 
 
 
-ul {
-    list-style-type: none;
+nav ul {
+    list-style: none;
     margin: 0;
     padding: 0;
+    display: inline-block;
+    vertical-align: top;
     overflow: hidden;
     background-color: #333;
 }
 
-li {
+nav ul li {
     float: left;
+    margin: 0;
+    padding: 0;
 }
 
 li a, .dropbtn {
     display: inline-block;
     color: white;
+    width: 80px;
     text-align: center;
-    padding: 14px 16px;
+    padding: 6px 8px;
     text-decoration: none;
 }
 
@@ -106,13 +105,13 @@ li.dropdown {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 160px;
+    min-width: 113px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
 .dropdown-content a {
     color: black;
-    padding: 12px 16px;
+    padding: 8px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
