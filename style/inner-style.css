@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 
 header{
-	font-size: 1.5em;
+	font-size: 1em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 
-	max-width: 700px;
+	max-width: 650px;
 	margin: auto;
 }
 
@@ -14,8 +14,9 @@ section{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 
-	max-width: 700px;
+	max-width: 650px;
 	margin: auto;
+	text-align: justify;
 }
 ul{
 	list-style-type: circle;
