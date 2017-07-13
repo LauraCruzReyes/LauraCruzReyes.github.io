@@ -4,7 +4,7 @@ layout: default
 
 # Personal Theses
 
-1.  Laura Cruz Reyes. "Classification of Heuristic Algorithms for the solution of Bin Packing Problems", PhD in Computer Science, [Centro Nacional de Investigación y Desarrollo Tecnológico](http://www.cenidet.edu.mx/subaca/web-dcc/), Department of Computational Sciences, Defended on July 16th, 2004. [Dropbox(PDF)](https://www.dropbox.com/s/ui661gpu9gyfa8l/TDLauraCR04.pdf?dl=1).
+1.  Laura Cruz Reyes. "Classification of Heuristic Algorithms for the solution of Bin Packing Problems", PhD in Computer Science, [Centro Nacional de Investigación y Desarrollo Tecnológico](http://www.cenidet.edu.mx/subaca/web-dcc/), Department of Computational Sciences, Defended on July 16th, 2004. [Dropbox(PDF)](https://www.dropbox.com/s/ui661gpu9gyfa8l/TDLauraCR04.pdf?dl=1), [Drive(PDF)](www.google.com).
 
 2.  Laura Cruz Reyes. "Automation of the Design of Vertical Fragmentation and Distributed Data Base Allocation using Heuristic and Exact Methods", MSc in Computer Science, [Instituto Tecnológico y de Estudios Superiores de Monterrey](http://www.itesm.mx/wps/portal), Graduate Program in Computational Sciences, Defended on May 20th, 1999. [Dropbox (PDF)](https://www.dropbox.com/s/57dww3qvwllb55q/TMLauraCR99.pdf?dl=1).
 
