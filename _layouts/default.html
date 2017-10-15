@@ -2,11 +2,11 @@
 <html>
 {% include head.html %}
 <body>
-    <div class="container">
-        {% include nav.html %}
-        <section>
-            {{ content }}
-        </section>
-    </div>
+  <header>
+    {% include nav.html %}
+  </header>
+  <main>
+    {{ content }}
+  </main>
 </body>
 </html>

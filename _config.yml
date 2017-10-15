@@ -14,15 +14,6 @@ url: http://lauracruzreyes.github.io  # the base hostname & protocol for your si
 # Build settings
 markdown: kramdown
 
-# Sass settings
-sass:
-  style: compressed
-
 # Customizations
 your_name: Laura Cruz Reyes
 email: cruzreyeslaura@gmail.com
-
-social:
-  - service: github
-    username: LauraCruzReyes
-    link: https://github.com/LauraCruzReyes
