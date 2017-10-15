@@ -37,7 +37,7 @@ nav a{
   transition: all 200ms linear;
 }
 nav a:hover{
-  color: #e23664;
+  color: #CC9900;
   transition: all 200ms linear;
 }
 .dropdown {
@@ -52,6 +52,10 @@ nav a:hover{
   text-decoration: none;
   display: block;
   text-align: left;
+}
+.dropdown a:hover {
+  background-color: #CC9900;
+  color: #FFFFFF;
 }
 /* end of navigation bar */
 
