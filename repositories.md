@@ -14,7 +14,7 @@ layout: default
         
 - Repository on dynamic multiobjetive optimization
 
-    - Optimization Benchmarks accompanying to scientific papers
+    - Optimization Benchmarks accompanying research articles
 
         - ...preference incorporation [in evaluation]
 
