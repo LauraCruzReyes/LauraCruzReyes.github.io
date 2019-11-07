@@ -14,9 +14,9 @@ layout: default
         
 - Repository on dynamic multiobjetive optimization
 
-    - Optimization Benchmarks accompanying a paper
+    - Optimization Benchmarks accompanying to scientific papers
 
-        - Fuzzy Filter [in evaluation]
+        - ...preference incorporation [in evaluation]
 
 - Repository on knowledge discovery
 
