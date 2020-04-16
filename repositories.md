@@ -4,6 +4,7 @@ layout: default
 
 # Repositories
 
+
 - Repository on multicriteria decision aid (MCDA)
 
     - Technical Reports
@@ -12,11 +13,17 @@ layout: default
         
         - Brief description of ELECTRE TRI-nC. Universidad Autónoma de Sinaloa [Dropbox (PDF)](https://www.dropbox.com/s/rw08id4lqmpdpje/TRFernandezE19.pdf?dl=0)
         
+    - Resources accompanying research articles
+
+        - Description of 100 applicant social projects (impacts and their budget requirements) [Dropbox (PDF)](https://www.dropbox.com/s/t80u9kbdcub6jua/Projects%20Description.pdf?dl=0)
+        
+
 - Repository on dynamic multiobjetive optimization
 
-    - Optimization Benchmarks accompanying research articles
+    - Resources accompanying research articles
 
         - ...preference incorporation [in evaluation]
+
 
 - Repository on knowledge discovery
 
