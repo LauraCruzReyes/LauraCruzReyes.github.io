@@ -22,7 +22,7 @@ layout: default
 
     - Resources accompanying research articles
 
-        - Fuzzy Filter: a method to solve a dynamic portfolio selection problem with preference incorporation [Dropbox directory](https://www.dropbox.com/sh/o9klxlxr94foe83/AAB7FzLUzqQBTiQpaQfBuL7fa?dl=0)
+        - Fuzzy Filter: a method to solve a dynamic portfolio selection problem with preference incorporation [Dropbox (directory)](https://www.dropbox.com/sh/o9klxlxr94foe83/AAB7FzLUzqQBTiQpaQfBuL7fa?dl=0)
 
 
 - Repository on knowledge discovery
