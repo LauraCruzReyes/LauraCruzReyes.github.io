@@ -6,70 +6,136 @@ layout: default
 
 ## Indexed Journal Papers   
 
-1. Nancy M. Arratia Martínez, Fernando López Irarragorri, Satu Elisa Schaeffer, and Laura Cruz Reyes. Static R&D project portfolio selection in public organizations. **_Decision Support Systems_**, Volume 84, pp 53-63, April 2016\. ISSN:0167-9236\. [Doi 10.1016/j.dss.2016.01.006](http://dx.doi.org/10.1016/j.dss.2016.01.006)   
-  
-2. S. Samantha Bastiani, Laura Cruz-Reyes, Eduardo Fernandez, and Claudia Gomez. Portfolio Optimization From a Set of Preference Ordered Projects Using an Ant Colony Based Multi-objective Approach. International Journal of Computational Intelligence Systems, Volume 8, supplement 2, pp. 41-53, December 2015\.  ISSN:1875-6891\. [](http://www.redalyc.org/pdf/2652/265243129002.pdf)[Doi 10.1080/18756891.2015.1129590](http://dx.doi.org/10.1080/18756891.2015.1129590)   
-  
-3. Laura Cruz-Reyes, Cesar Medina-Trejo, Fernando Lopez-Irarragorri, Gilberto Rivera , Claudia G. Gomez S., Mercedes Perez-Villafuerte. Reduction of Decision Rules for Project Explanation on Public Project Portfolio. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume 6, Number 3, pp. 5-21, December 2015\. ISSN:2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265243129002.pdf)[](http://www.redalyc.org/pdf/2652/265243129002.pdf)
+Fausto Balderas, Eduardo Fernández, Laura Cruz-Reyes, Claudia Gómez-Santillán, Nelson Rangel-Valdez,Solving group multi-objective optimization problems by optimizing consensus through multi-criteria ordinal classification,European Journal of Operational Research,297,3 1014-1029,2022, ISSN I/O 0377-2217-1872-6860, ISBN I/O -,https://doi.org/10.1016/j.ejor.2021.05.032
 
-4. Juan J. González, Rogelio Florencia, Héctor J. Fraire, Rodolfo A. Pazos, Laura Cruz-Reyes, and Claudia Gómez. Semantic representations for knowledge modelling of a Natural Language Interface to Databases using ontologies. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume 6, Number 2, pp. 28-42, June 2015\. ISSN: 2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265242975003.pdf)  
-  
-5. Laura Cruz-Reyes, Paula Hernández, Patricia Melin, Julio Mar-Ortiz, Hector Fraire Huacuja, Hector Jose Puga Soberanes and Juan Jose Gonzalez Barbosa. (2015). Lower and Upper Bounds for the Master Bay Planning Problem. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume _6, Number 1_, pp. 42-52, January-April 2015\. ISSN:2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265239212005.pdf)  
-  
-6. Adriana Mexicano Santoyo, Joaquín Perez Ortega, David Romero, and Laura Cruz Reyes (2015). Towards a Characterization of Difficult Instances of the Bin Packing Problem._**Latin America Transactions, IEEE**_ (Revista IEEE America Latina), Volume 13, Issue 7, pp. 2454-2462, July 2015\. ISSN:1548-0992. [Doi 10.1109/TLA.2015.7273812](http://dx.doi.org/10.1109/TLA.2015.7273812)   
-  
-7. Eduardo Fernandez, Claudia Gomez, Gilberto Rivera and Laura Cruz-Reyes, Hybrid metaheuristic approach for handling many objectives and decisions on partial support in project portfolio optimisation. **_Information Science_**, Volume 315, Pages 102-122, Sep 2015\. ISSN:0020-0255\. [Doi 10.1016/j.ins.2015.03.064](http://dx.doi.org/10.1016/j.ins.2015.03.064)   
-  
-8. Marcela Quiroz-Castellanos, Laura Cruz-Reyes, Jose Torres-Jimenez, Claudia Gómez S., Héctor J. Fraire Huacuja, Adriana C.F. Alvim. A grouping genetic algorithm with controlled gene transmission for the bin packing problem. **_Computers & Operations Research_**, Volume 55, Pages 52-64, March 2015\. ISSN:0305-0548\.   
+Carlos Soto, Eduardo Del Ángel-Martínez, Héctor Fraire-Huacuja, Bernabe Dorronsoro, Nelson Rangel, Laura Cruz-Reyes,Two novel branch and bound algorithms for the vertex bisection problem,Expert Systems with Applications,190, 116169,2022, ISSN I/O-, ISBN I/O 0957-4174 -1873-6793,https://doi.org/10.1016/j.eswa.2021.116169
+
+Alejandro Castellanos, Laura Cruz-Reyes, Eduardo Fernández, Gilberto Rivera, Claudia Gomez-Santillan, Nelson Rangel-Valdez,Hybridisation of Swarm Intelligence Algorithms with Multi-Criteria Ordinal Classification: A Strategy to Address Many-Objective Optimisation,Mathematics,10,3 322,2022, ISSN I/O2227-7390-, ISBN I/O -,; https://doi.org/10.3390/math10030322
+
+Gilberto Rivera, Carlos A Coello Coello, CRUZ-REYES Laura, Eduardo R Fernandez, Claudia Gomez-Santillan, Nelson Rangel-Valdez,Preference Incorporation into Many-Objective Optimization: An Ant Colony Algorithm based on Interval Outranking,Swarm and Evolutionary Computation,69, 101024,2022, ISSN I/O2210-6502 -2210-6510, ISBN I/O -,https://doi.org/10.1016/j.swevo.2021.101024
+
+Rafael A Espín-Andrade, Laura Cruz-Reyes, Carlos Llorente-Peralta, Erick González-Caballero, Witold Pedrycz, Susana Ruiz,Archimedean Compensatory Fuzzy Logic as a Pluralist Contextual Theory Useful for Knowledge Discovery,International Journal of Fuzzy Systems,, 1-21,44430, ISSN I/O1562-2479- 2199-3211, ISBN I/O -,https://doi.org/10.1007/s40815-021-01150-6
+
+Rafael A Espin-Andrade, Witold Pedrycz, Efrain Solares, Laura Cruz-Reyes,Transdisciplinary Scientific Strategies for Soft Computing Development: Towards an Era of Data and Business Analytics,Axioms,10,2 93,2021, ISSN I/O 2075-1680-, ISBN I/O -,https://doi.org/10.3390/axioms10020093
+
+Alejandro Estrada-Padilla, Daniela Lopez-Garcia, Claudia Gómez-Santillán, Héctor Joaquín Fraire-Huacuja, Laura Cruz-Reyes, Nelson Rangel-Valdez, María Lucila Morales-Rodríguez,Modeling and Optimizing the Multi-Objective Portfolio Optimization Problem with Trapezoidal Fuzzy Parameters,Mathematical and Computational Applications,26,2 36,2021, ISSN I/O1300-686X-2297-8747, ISBN I/O -,https://doi.org/10.3390/mca26020036
+
+Teodoro Macias-Escobar, Laura Cruz-Reyes, César Medina-Trejo, Claudia Gómez-Santillán, Nelson Rangel-Valdez, Héctor Fraire-Huacuja,An Interactive Recommendation System for Decision Making Based on the Characterization of Cognitive Tasks,Mathematical and Computational Applications,26,2 35,2021, ISSN I/O1300-686X-2297-8747, ISBN I/O -,https://doi.org/10.3390/mca26020035
+
+Alejandro Castellanos-Alvarez, Laura Cruz-Reyes, Eduardo Fernandez, Nelson Rangel-Valdez, Claudia Gómez-Santillán, Hector Fraire, José Alfredo Brambila-Hernández,A Method for Integration of Preferences to a Multi-Objective Evolutionary Algorithm Using Ordinal Multi-Criteria Classification,Mathematical and Computational Applications,26,2 27,2021, ISSN I/O1300-686X-2297-8747, ISBN I/O -,https://doi.org/10.3390/mca26020027
+
+Mercedes Perez-Villafuerte, Laura Cruz-Reyes, Nelson Rangel-Valdez, Claudia Gomez-Santillan, Héctor Fraire-Huacuja,Effect of the Profile of the Decision Maker in the Search for Solutions in the Decision-Making Process,Mathematical and Computational Applications,26,2 28,2021, ISSN I/O1300-686X- 2297-8747, ISBN I/O -,https://doi.org/10.3390/mca26020028
+
+Eduardo Fernández, Nelson Rangel-Valdez, Laura Cruz-Reyes, Claudia Gomez-Santillan,A New Approach to Group Multi-Objective Optimization under Imperfect Information and Its Application to Project Portfolio Optimization,Applied Sciences,11,10 45-75,, ISSN I/O14545101-, ISBN I/O -,https://doi.org/10.3390/app11104575
+
+Luis Martínez, Witold Pedrycz, Laura Cruz-Reyes,Editorial on Special Issue:“Fuzzy Models for Business Analytics”,International Journal of Fuzzy Systems,22, 2690,44158, ISSN I/O-, ISBN I/O -, https://doi.org/10.1007/s40815-020-01022-5
+
+Javier Alberto Rangel-González, Héctor Fraire, Juan Frausto Solís, Laura Cruz-Reyes, Claudia Gomez-Santillan, Nelson Rangel-Valdez, Juan Martín Carpio-Valadez,Fuzzy Multi-objective Particle Swarm Optimization Solving the Three-Objective Portfolio Optimization Problem,International Journal of Fuzzy Systems,22,8 2760-2768,44136, ISSN I/O1562-2479-2199-3211, ISBN I/O -,https://doi.org/10.1007/s40815-020-00928-4
+
+Teodoro Macias-Escobar, Laura Cruz-Reyes, Héctor Fraire, Bernabé Dorronsoro,Plane Separation: A method to solve dynamic multi-objective optimization problems with incorporated preferences,Future Generation Computer Systems,110, 864-875,44075, ISSN I/O 0167-739X -1872-7115, ISBN I/O -,https://doi.org/10.1016/j.future.2019.10.039
+
+Laura Cruz-Reyes, Eduardo Fernandez, J Patricia Sanchez-Solis, Carlos A Coello Coello, Claudia Gomez,Hybrid evolutionary multi-objective optimisation using outranking-based ordinal classification methods,Swarm and Evolutionary Computation,54, 100652,43952, ISSN I/O2210-6502-2210-6510, ISBN I/O -,https://doi.org/10.1016/j.swevo.2020.100652
+
+Nelson Rangel-Valdez, Claudia Gómez-Santillán, Juan Carlos Hernández-Marín, María Lucila Morales-Rodriguez, Laura Cruz-Reyes, Hector Joaquín Fraire-Huacuja,Parallel Designs for Metaheuristics that Solve Portfolio Selection Problems Using Fuzzy Outranking Relations,International Journal of Fuzzy Systems,22, 2747–2759,43899, ISSN I/O1562-2479 - 2199-3211, ISBN I/O -,
+
+Xochitl Samantha Delgado-Hernández, María Lucila Morales-Rodriguez, Nelson Rangel-Valdez, Laura Cruz-Reyes, Jorge Castro-Rivera,Development of Conversational Deliberative Agents Driven by Personality via Fuzzy Outranking Relations,International Journal of Fuzzy Systems,22, 2720–2734,43899, ISSN I/O1562-2479 - 2199-3211, ISBN I/O -,
+
+Carlos Soto, Bernabé Dorronsoro, Héctor Fraire, Laura Cruz-Reyes, Claudia Gomez-Santillan, Nelson Rangel,Solving the multi-objective flexible job shop scheduling problem with a novel parallel branch and bound algorithm,Swarm and Evolutionary Computation,53, 100632,43891, ISSN I/O 2210-6502-2210-6510, ISBN I/O -,https://doi.org/10.1016/j.swevo.2019.100632
+
+Juan de Anda-Suárez, Solai Jeyakumar, Martín Carpio, Héctor J Puga, Alfonso Rojas-Domínguez, Laura Cruz-Reyes, Juan F Mosiño,Parameter optimization for the smoothed-particle hydrodynamics method by means of evolutionary metaheuristics,Computer Physics Communications,243, 30-40,43739, ISSN I/O0010-4655-1879-2944, ISBN I/O -,https://doi.org/10.1016/j.cpc.2019.05.008
+
+Teodoro Macias-Escobar, Laura Cruz-Reyes, Bernabé Dorronsoro, Héctor Fraire-Huacuja, Nelson Rangel-Valdez, Claudia Gómez-Santillán,Application of population evolvability in a hyper-heuristic for dynamic multi-objective optimization,Technological and Economic Development of Economy,25,5 951-978,43658, ISSN I/O2029-4913-2029-4921, ISBN I/O -,https://doi.org/10.3846/tede.2019.10291
+
+Eduardo Fernandez, Nelson Rangel-Valdez, Laura Cruz-Reyes, Claudia Gomez-Santillan, Gilberto Rivera-Zarate, Patricia Sanchez-Solis,Inferring parameters of a relational system of preferences from assignment examples using an evolutionary algorithm,Technological and Economic Development of Economy,25,4 693-715,43592, ISSN I/O2029-4913-2029-4921, ISBN I/O -,https://doi.org/10.3846/tede.2019.9475
+
+J David Terán-Villanueva, Héctor Joaquín Fraire-Huacuja, Salvador Ibarra Martínez, Laura Cruz-Reyes, Jose Antonio Castán Rocha, Claudia Gómez Santillán, Julio Laria Menchaca,Cellular processing algorithm for the vertex bisection problem: Detailed analysis and new component design,Information Sciences,478, 62-82,2019, ISSN I/O-, ISBN I/O -,https://doi.org/10.1016/j.ins.2018.11.020
+
+Eduardo Fernandez, Claudia Gomez-Santillan, Nelson Rangel-Valdez, Laura Cruz-Reyes, Fausto Balderas,An Interval-Based Evolutionary Approach to Portfolio Optimization of New Product Development Projects,Mathematical Problems in Engineering,2019,4065424 ,2019, ISSN I/O1024-123X-1563-5147, ISBN I/O -,https://doi.org/10.1155/2019/4065424
+
+Satu Elisa Schaeffer, Sara Elena Garza, Juan Carlos Espinosa, Sandra Cecilia Urbina, Petteri Nurmi & Laura Cruz-Reyes. , A Framework for Informing Consumers on the Ecological Impact of Products at Point of Sale.,Behaviour & Information Technology,37,6 607-621,2018, ISSN I/O0144-929X-1362-3001, ISBN I/O -,https://doi.org/10.1080/0144929X.2018.1470254
+
+Nelson Rangel-Valdez, Eduardo Fernandez, Laura Cruz-Reyes, Claudia Gomez-Santillan, Gilberto Rivera, Rogelio Florencia.,Robustness Analysis of an Outranking Model Parameters’ Elicitation Method in the Presence of Noisy Examples, Mathematical Problems in Engineering,,2157937 1-10,2018, ISSN I/O1024-123X-1563-5147, ISBN I/O -,https://doi.org/10.1155/2018/2157937
+
+Eduardo Fernandez, Claudia Gómez-Santillán, Laura Cruz-Reyes, Nelson Rangel-Valdez, Shulamith Bastiani, Design and Solution of a Surrogate Model for Portfolio Optimization Based on Project Ranking, Scientific Programming,2017,1 1-10.,2017, ISSN I/O2314-4904- 2090-908X, ISBN I/O -,https://doi.org/10.1155/2017/1083062
+
+Mayra S. Hernández G., Federico Gamboa R., Nelson Rangel-Valdez, Laura Cruz-Reyes, Claudia Gómez Santillán, Daniel Martínez-Vega, Decomposition Based on Models that use Bandwidth Minimization Heuristics in Matrices for Scheduling Problems. , International Journal of Combinatorial Optimization Problems and Informatics,8,3 59-53,2017, ISSN I/O1058-9244-1875-919X, ISBN I/O -,https://www.ijcopi.org/index.php/ojs/article/view/19
+
+Laura Cruz-Reyes, Mercedes Pérez Villafuerte, Nelson Rangel-Valdez, Claudia Gómez Santillán, Patricia Sánchez-Solís, Marcela Quiroz-Castellanos.,Performance Analysis of Strategies that aid in the Incorporation of Preferences in Public Portfolio Optimization Processes.,International Journal of Combinatorial Optimization Problems and Informatics ,8,2 25-31,2017, ISSN I/O1058-9244-1875-919X, ISBN I/O -,https://ijcopi.org/index.php/ojs/article/view/11
+
+Laura Cruz Reyes, Eduardo Ferandez, Patricia Sanchez, Carlos A. Coello Coello, Claudia G. Gómez,Incorporation of implicit decision-maker preferences in Multi-Objective Evolutionary Optimization using a multi-criteria classification method.,Applied Soft Computing,50,1 48-57,2017, ISSN I/O1568-4946.-1872-9681, ISBN I/O -,http://doi.org/10.1016/j.asoc.2016.10.037
+
+Laura Cruz Reyes, Eduardo Ferandez, Nelson Rangel Valdez y Claudia Gómez,A metaheuristic optimization-based indirect elicitation of preference parameters for solving many-objective problems,International Journal of Computational Intelligence Systems,10,1 56-77,2017, ISSN I/O1875-6891-1875-6883, ISBN I/O -,http://doi.org/10.2991/ijcis.2017.10.1.5
+
+Fausto Balderas, Eduardo Fernandez, Claudia Gómez, Laura Cruz-Reyes, Nelson Rangel-Valdez. ,Metaheuristic Robust Optimization of Project Portfolios using an Interval-Based Model of Imprecisions,International Journal of Combinatorial Optimization Problems and Informatics,7,3 101-118,2016, ISSN I/O2007-1558.-, ISBN I/O -,https://ijcopi.org/index.php/ojs/article/view/25
+
+Laura Cruz-Reyes, Eduardo Fernández, Patricia Sánchez, Claudia Gómez.,Incorporation of decision-maker preferences in an interactive evolutionary multi-objective algorithm using a multi-criteria sorting.,International Journal of Combinatorial Optimization Problems and Informatics,7,3 28-43,2016, ISSN I/O2007-1558.-, ISBN I/O -,https://ijcopi.org/index.php/ojs/article/view/25
+
+Fausto Balderas, Eduardo Fernandez, Claudia Gómez Santillán, Gilberto Rivera, Laura Cruz-Reyes, Nelson Rangel.,Uncertainty Modelling for Project Portfolio Problem using Interval Analysis.,International Journal of Combinatorial Optimization Problems and Informatics,7,3 20-27,2016, ISSN I/O2007-1558.-, ISBN I/O -,https://www.ijcopi.org/index.php/ojs/article/view/24
+
+Nancy M. Arratia Martínez, Fernando López Irarragorri, Satu Elisa Schaeffer, and Laura Cruz Reyes. Static R&D project portfolio selection in public organizations. **_Decision Support Systems_**, Volume 84, pp 53-63, April 2016\. ISSN:0167-9236\. [Doi 10.1016/j.dss.2016.01.006](http://dx.doi.org/10.1016/j.dss.2016.01.006)   
+
+S. Samantha Bastiani, Laura Cruz-Reyes, Eduardo Fernandez, and Claudia Gomez. Portfolio Optimization From a Set of Preference Ordered Projects Using an Ant Colony Based Multi-objective Approach. International Journal of Computational Intelligence Systems, Volume 8, supplement 2, pp. 41-53, December 2015\.  ISSN:1875-6891\. [](http://www.redalyc.org/pdf/2652/265243129002.pdf)[Doi 10.1080/18756891.2015.1129590](http://dx.doi.org/10.1080/18756891.2015.1129590)   
+
+Laura Cruz-Reyes, Cesar Medina-Trejo, Fernando Lopez-Irarragorri, Gilberto Rivera , Claudia G. Gomez S., Mercedes Perez-Villafuerte. Reduction of Decision Rules for Project Explanation on Public Project Portfolio. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume 6, Number 3, pp. 5-21, December 2015\. ISSN:2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265243129002.pdf)[](http://www.redalyc.org/pdf/2652/265243129002.pdf)
+
+Juan J. González, Rogelio Florencia, Héctor J. Fraire, Rodolfo A. Pazos, Laura Cruz-Reyes, and Claudia Gómez. Semantic representations for knowledge modelling of a Natural Language Interface to Databases using ontologies. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume 6, Number 2, pp. 28-42, June 2015\. ISSN: 2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265242975003.pdf)  
+
+Laura Cruz-Reyes, Paula Hernández, Patricia Melin, Julio Mar-Ortiz, Hector Fraire Huacuja, Hector Jose Puga Soberanes and Juan Jose Gonzalez Barbosa. (2015). Lower and Upper Bounds for the Master Bay Planning Problem. **_International Journal of Combinatorial Optimization Problems and Informatics_**, Volume _6, Number 1_, pp. 42-52, January-April 2015\. ISSN:2007-1558\. [Publisher's site](http://www.redalyc.org/pdf/2652/265239212005.pdf)   
+
+Adriana Mexicano Santoyo, Joaquín Perez Ortega, David Romero, and Laura Cruz Reyes (2015). Towards a Characterization of Difficult Instances of the Bin Packing Problem._**Latin America Transactions, IEEE**_ (Revista IEEE America Latina), Volume 13, Issue 7, pp. 2454-2462, July 2015\. ISSN:1548-0992. [Doi 10.1109/TLA.2015.7273812](http://dx.doi.org/10.1109/TLA.2015.7273812)   
+
+Eduardo Fernandez, Claudia Gomez, Gilberto Rivera and Laura Cruz-Reyes, Hybrid metaheuristic approach for handling many objectives and decisions on partial support in project portfolio optimisation. **_Information Science_**, Volume 315, Pages 102-122, Sep 2015\. ISSN:0020-0255\. [Doi 10.1016/j.ins.2015.03.064](http://dx.doi.org/10.1016/j.ins.2015.03.064)   
+
+Marcela Quiroz-Castellanos, Laura Cruz-Reyes, Jose Torres-Jimenez, Claudia Gómez S., Héctor J. Fraire Huacuja, Adriana C.F. Alvim. A grouping genetic algorithm with controlled gene transmission for the bin packing problem. **_Computers & Operations Research_**, Volume 55, Pages 52-64, March 2015\. ISSN:0305-0548\.   
 [Doi 10.1016/j.cor.2014.10.010](http://dx.doi.org/10.1016/j.cor.2014.10.010)   
-  
-9. Marco Aurelio Sotelo-Figueroa, Héctor José Puga Soberanes, Juan Martín Carpio, Héctor J. Fraire Huacuja, _Laura Cruz-Reyes_, and Jorge Alberto Soria-Alcaraz. Improving the Bin Packing Heuristic through Grammatical Evolution Based on Swarm Intelligence. **_Mathematical Problems in Engineering_**, Volume 2014, Article ID 545191, 12 pages, 2014\. ISSN:1024-123X. [Doi 10.1155/2014/545191](http://dx.doi.org/10.1155/2014/545191)  
-  
-10. _Laura Cruz-Reyes_, Eduardo Fernández, Claudia Gómez, Gilberto Rivera, and Fatima Pérez. Many-Objective Portfolio Optimization of Interdependent Projects with 'a Priori' Incorporation of Decision-Maker Preferences. **_Applied Mathematics & Information Sciences_**. Natural Science Publishing, Volume 8, Number 4, pp. 1-15, 2014\. ISSN:2325-0399. [Doi 10.12785/amis/080405](http://dx.doi.org/10.12785/amis/080405).   
-  
-11. Claudia Gómez Santillán, _Laura Cruz-Reyes_, Javier González Barbosa, Héctor Fraire Huacuja, Rodolfo Pazos and Jose Martínez. Ant colony system with characterization-based heuristics for a bottled-products distribution logistics system. **_Journal of Computational and Applied Mathematics_**, Elsevier Science, Vol. 259, 965-977 (2014). ISSN:0377-0427. [Doi 10.1016/j.cam.2013.10.035](http://dx.doi.org/10.1016/j.cam.2013.10.035).   
-  
-12. Jorge A. Ruiz-Vanoye, Joaquín Pérez-Ortega, Rodolfo A. Pazos R., Ocotlán Díaz-Parra, Hector Fraire-Huacuja, Juan Frausto-Solis, Gerardo Reyes-Salgado, _Laura Cruz-Reyes_. Application of formal languages in the polynomial transformations of instances between NP-complete problems. **_Journal of Zhejiang University-Science C-Computer & Electronics_** (ahora conocida como Frontiers of Information Technology & Electronic Engineering)14(8), pp. 623-633, 2013\. ISSN:2095-9184\. [Doi 10.1631/jzus.C1200349](http://dx.doi.org/10.1631/jzus.C1200349)   
-  
-13. _Laura Cruz-Reyes_, Marcela Quiroz-Castellanos, Adriana C. F. Alvim, Héctor Joaquin Fraire Huacuja, Claudia Gómez Santillán, José Torres-Jiménez: Heurísticas de agrupación híbridas eficientes para el problema de empacado de objetos en contenedores. **_Computación y Sistemas_**, Vol. 16 No. 3 (2012) 349-360\. ISSN:1405-5546\. [Publisher's site](http://www.scielo.org.mx/pdf/cys/v16n3/v16n3a9.pdf)
 
-14. Héctor Joaquín Fraire Huacuja, Guadalupe Castilla Valdez, Rodolfo A. Pazos Rangel, Javier González Barbosa, _Laura Cruz-Reyes_, Juan Martín Carpio Valadez, Héctor José Puga Soberanes, David Terán Villanueva. Scatter search with multiple improvement methods for the linear ordering problem. **_Malaysian Journal of Computer Science_**, Vol. 25 No. 2 (2012) 76-89\. ISSN: 0127-9084. [Publisher's site](http://umepublication.um.edu.my/public/article-view.php?id=3947) 
+Marco Aurelio Sotelo-Figueroa, Héctor José Puga Soberanes, Juan Martín Carpio, Héctor J. Fraire Huacuja, _Laura Cruz-Reyes_, and Jorge Alberto Soria-Alcaraz. Improving the Bin Packing Heuristic through Grammatical Evolution Based on Swarm Intelligence. **_Mathematical Problems in Engineering_**, Volume 2014, Article ID 545191, 12 pages, 2014\. ISSN:1024-123X. [Doi 10.1155/2014/545191](http://dx.doi.org/10.1155/2014/545191)  
 
-15. Jorge A. Ruiz-Vanoye, Joaquín Pérez-Ortega, Rodolfo A. Pazos R., Ocotlán Díaz-Parra, Juan Frausto-Solís, Hector J. Fraire-Huacuja, _Laura Cruz-Reyes_, José A. Martínez-Flores. Survey of Polynomial Transformations between NP-Complete problems. **_Journal of Computational and Applied Mathematics_**, Vol. 235, No. 16 (2011) 4851-4865\. ISSN: 0377-0427. [Doi 10.1016/j.cam.2011.02.018](http://dx.doi.org/10.1016/j.cam.2011.02.018)   
-  
-16. Claudia Gómez Santillán, _Laura Cruz-Reyes_, Eustorgio Meza Conde, Guadalupe Castilla Valdez, Elisa Schaeffer. A Self-Adaptive Ant Colony System for Semantic Query Routing Problem in P2P Networks. **_Computación y Sistemas_**, Vol. 13 No. 4 (2010) 433-448\. ISSN:1405-5546\. [Publisher's site](http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BUJ5-0030-0037/c/httpwww_jamris_org012011saveas_phpquestjamrisno012011p85-94.pdf) 
+_Laura Cruz-Reyes_, Eduardo Fernández, Claudia Gómez, Gilberto Rivera, and Fatima Pérez. Many-Objective Portfolio Optimization of Interdependent Projects with 'a Priori' Incorporation of Decision-Maker Preferences. **_Applied Mathematics & Information Sciences_**. Natural Science Publishing, Volume 8, Number 4, pp. 1-15, 2014\. ISSN:2325-0399. [Doi 10.12785/amis/080405](http://dx.doi.org/10.12785/amis/080405).   
 
-17. Héctor Joaquín Fraire Huacuja, Rodolfo Abraham Pazos Rangel, Juan Javier González Barbosa, _Laura Cruz-Reyes_, Guadalupe Castilla Valdez, and José A. Martínez Flores. Reducing the Experiments Required to Assess the Performance of Metaheuristic Algorithms. **_Computación y Sistemas_**, Revista Iberoamericana de Computación, Vol. 14 No. 1, (2010) 44-53\. ISSN:1405-5546\. [Publisher's site](http://scielo.unam.mx/pdf/cys/v14n1/v14n1a5.pdf)  
-  
-18. Héctor Fraire, _Laura Cruz-Reyes_, Joaquín Pérez, Rodolfo Pazos, David Romero, Juan Frausto. Solving large scale instances of the distribution design problem using data Mining. **_Computing and Informatics_**, Slovak University Press, Bratislava, Slovakia, Vol. 28, (2009) 29-56\. ISNN: 1335-9150\. [Publisher's site](http://www.cai.sk/ojs/index.php/cai/article/view/23/10)  
-  
-19. Víctor Jesús Sosa, Rodolfo A. Pazos, Juan G. González, Santos Cáceres, _Laura Cruz-Reyes_, Mario Guillen: SoapFS: A Multiplatform File System. Lectures Notes in Computer Science, Vol. 3981, Springer-Verlag, Berlin Heidelberg New York (2006) 18-27\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007/11751588_3)
+Claudia Gómez Santillán, _Laura Cruz-Reyes_, Javier González Barbosa, Héctor Fraire Huacuja, Rodolfo Pazos and Jose Martínez. Ant colony system with characterization-based heuristics for a bottled-products distribution logistics system. **_Journal of Computational and Applied Mathematics_**, Elsevier Science, Vol. 259, 965-977 (2014). ISSN:0377-0427. [Doi 10.1016/j.cam.2013.10.035](http://dx.doi.org/10.1016/j.cam.2013.10.035).   
 
-20. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, Gerardo Reyes, Rene Santaolaya, Héctor Fraire, _Laura Cruz-Reyes_. An Approach for Solving Very Large Scale Instances of the Design Distribution Problem for distributed DataBase Systems. Lectures Notes in Computer Science Vol. 3563, Springer-Verlag, Berlin Heidelberg New York (2005) 33-42\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007%2F11533962_4)  
-  
-21. _Laura Cruz-Reyes_, Pérez J., Landero V., Santiago, E., Álvarez, V. Pérez, V.: An Ordered Preprocessing Scheme for Data Mining. Lectures Notes in Artificial Intelligence, Vol. 3157, Springer-Verlag, Berlin Heidelberg New York (2004) 1007-1008\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007%2F978-3-540-28633-2_137)  
-  
-22. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, _Laura Cruz-Reyes_, Héctor Fraire, Santiago, E., García, N.E.: A Machine Learning Approach for Modeling Algorithm Performance Predictors. Lectures Notes in Artificial Intelligence, No.3131, Springer-Verlag, Berlin Heidelberg New York (2004) 70-80\. ISSN: 0302-9743\. [ublisher's site](http://link.springer.com/chapter/10.1007/978-3-540-27774-3_8)  
-  
-23. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, Guillermo Rodríguez, David Romero, _Laura Cruz-Reyes_. A Statistical Approach for Algorithm Selection. Lectures Notes in Computer Science, Vol. 3059\. Springer-Verlag, Berlin Heidelberg New York (2004) 417-431\. ISSN: 0302-9743, [Publisher's site](http://link.springer.com/chapter/10.1007/978-3-540-24838-5_3)  
-  
-24. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, Guillermo Rodríguez, _Laura Cruz-Reyes_, Héctor Fraire. Comparison and Selection of Exact and Heuristic Algorithms. Lectures Notes in Computer Science, Vol. 3045\. Springer-Verlag, Berlin Heidelberg New York (2004) 415-424\. ISSN: 0302-9743, [Publisher's site](http://link.springer.com/chapter/10.1007/978-3-540-24767-8_43)  
-  
-25. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, Guillermo Rodríguez, _Laura Cruz-Reyes_, Graciela Mora, Héctor Fraire. Self-Tuning Mechanism for Genetic Algorithms Parameters, an Application to Data-Object Allocation in the Web. Lectures Notes in Computer Science, Vol. 3046\. Springer-Verlag, Berlin Heidelberg New York (2004) 77-86\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007/978-3-540-24768-5_9)  
-  
-26. Joaquín Pérez, Rodolfo Pazos, René, S., Frausto, J., Guillermo Rodríguez, _Laura Cruz-Reyes_, Maricela Bravo. Data-Object Replication, Distribution, and Mobility in Network Environments. Lectures Notes in Computer Science, Vol. 2890\. Springer-Verlag, Berlin Heidelberg New York (2003) 539-545\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007/978-3-540-39866-0_52)
+Jorge A. Ruiz-Vanoye, Joaquín Pérez-Ortega, Rodolfo A. Pazos R., Ocotlán Díaz-Parra, Hector Fraire-Huacuja, Juan Frausto-Solis, Gerardo Reyes-Salgado, _Laura Cruz-Reyes_. Application of formal languages in the polynomial transformations of instances between NP-complete problems. **_Journal of Zhejiang University-Science C-Computer & Electronics_** (ahora conocida como Frontiers of Information Technology & Electronic Engineering)14(8), pp. 623-633, 2013\. ISSN:2095-9184\. [Doi 10.1631/jzus.C1200349](http://dx.doi.org/10.1631/jzus.C1200349)   
 
-27. Joaquín Pérez, Rodolfo Pazos, Héctor Fraire, _Laura Cruz-Reyes_, Johnatan Pecero. Adaptive Allocation of Data-Objects in the Web Using Neural Networks. Lectures Notes in Computer Science, Vol. 2829\. Springer-Verlag, Berlin Heidelberg New York (2003) 154-164\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007%2F978-3-540-39853-0_13)  
-  
-28. Joaquín Pérez, Rodolfo Pazos, Juan Frausto, David Romero, _Laura Cruz-Reyes_. Vertical Fragmentation and Allocation in Distributed Databases with Site Capacity Restrictions Using the Threshold Accepting Algorithm. Lectures Notes in Computer Science, Vol. 1793\. Springer-Verlag, Berlin Heidelberg New York (2000) 75-81\. ISSN: 0302-9743\. [Publisher's site](http://link.springer.com/chapter/10.1007/10720076_7)[](http://link.springer.com/chapter/10.1007/10720076_7)
+_Laura Cruz-Reyes_, Marcela Quiroz-Castellanos, Adriana C. F. Alvim, Héctor Joaquin Fraire Huacuja, Claudia Gómez Santillán, José Torres-Jiménez: Heurísticas de agrupación híbridas eficientes para el problema de empacado de objetos en contenedores. **_Computación y Sistemas_**, Vol. 16 No. 3 (2012) 349-360\. ISSN:1405-5546\. [Publisher's site](http://www.scielo.org.mx/pdf/cys/v16n3/v16n3a9.pdf)
 
-29. Laura Cruz, Reyes, Diana Nieto Yáñez, Pedro Tomas Solís, José Martínez Flores, A. Ramírez Saldívar: A New Low Level Hybrid Algorithm for Bin Packing Problem. Polish Journal of Environmental Studies, Vol. 16, No. 5B, Hard, Poland (2007) 20-25\. ISSN: 1230-1485.  
-  
-30. J. Pérez Ortega, L. Cruz, R., V. Landero Nájera, R. Pazos Rangel,V. Pérez Rosas, G. Zarate Rivera, G. Reyes Salgado: Explaining Performance of the Threshold Accepting algorithm for the Bin Packing Problem, a causal approach. Polish Journal of Environmental Studies, Vol. 16, No. 5B, Hard, Poland (2007) 72-76\. ISSN: 1230-1485\.  
-  
-31. L.Cruz Reyes, E. Meza Conde, T. Turrubiates López, C. Guadalupe Gómez Santillán, R. Ortega Izaguirre: Experimental design for selection of characterization functions that allow discriminate among random, scale free and exponential networks. Polish Journal of Environmental Studies. Vol. 16, No. 5B, Hard, Poland (2007) 67-71\. ISSN: 1230-1485\.  
-  
-32. R. Ortega Izaquirre, E. Meza Conde, C. Gómez Santillán, L. Cruz Reyes, T. Turrubiate López: Studying the Impact of Growing Dynamic in the Internet Topology. Polish Journal of Environmental Studies. Vol. 16, No. 5B, Hard, Poland (2007) 117-120\. ISSN: 1230-1485\. 
+Héctor Joaquín Fraire Huacuja, Guadalupe Castilla Valdez, Rodolfo A. Pazos Rangel, Javier González Barbosa, _Laura Cruz-Reyes_, Juan Martín Carpio Valadez, Héctor José Puga Soberanes, David Terán Villanueva. Scatter search with multiple improvement methods for the linear ordering problem. **_Malaysian Journal of Computer Science_**, Vol. 25 No. 2 (2012) 76-89\. ISSN: 0127-9084. [Publisher's site](http://umepublication.um.edu.my/public/article-view.php?id=3947) 
+
+Jorge A. Ruiz-Vanoye, Joaquín Pérez-Ortega, Rodolfo A. Pazos R., Ocotlán Díaz-Parra, Juan Frausto-Solís, Hector J. Fraire-Huacuja, _Laura Cruz-Reyes_, José A. Martínez-Flores. Survey of Polynomial Transformations between NP-Complete problems. **_Journal of Computational and Applied Mathematics_**, Vol. 235, No. 16 (2011) 4851-4865\. ISSN: 0377-0427. [Doi 10.1016/j.cam.2011.02.018](http://dx.doi.org/10.1016/j.cam.2011.02.018)   
+
+Claudia Gómez Santillán, _Laura Cruz-Reyes_, Eustorgio Meza Conde, Guadalupe Castilla Valdez, Elisa Schaeffer. A Self-Adaptive Ant Colony System for Semantic Query Routing Problem in P2P Networks. **_Computación y Sistemas_**, Vol. 13 No. 4 (2010) 433-448\. ISSN:1405-5546\. [Publisher's site](http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BUJ5-0030-0037/c/httpwww_jamris_org012011saveas_phpquestjamrisno012011p85-94.pdf) 
+
+Héctor Joaquín Fraire Huacuja, Rodolfo Abraham Pazos Rangel, Juan Javier González Barbosa, _Laura Cruz-Reyes_, Guadalupe Castilla Valdez, and José A. Martínez Flores. Reducing the Experiments Required to Assess the Performance of Metaheuristic Algorithms. **_Computación y Sistemas_**, Revista Iberoamericana de Computación, Vol. 14 No. 1, (2010) 44-53\. ISSN:1405-5546\. [Publisher's site](http://scielo.unam.mx/pdf/cys/v14n1/v14n1a5.pdf) 
+
+Héctor Fraire, _Laura Cruz-Reyes_, Joaquín Pérez, Rodolfo Pazos, David Romero, Juan Frausto. Solving large scale instances of the distribution design problem using data Mining. **_Computing and Informatics_**, Slovak University Press, Bratislava, Slovakia, Vol. 28, (2009) 29-56\. ISNN: 1335-9150\. [Publisher's site](http://www.cai.sk/ojs/index.php/cai/article/view/23/10)  
+
+Laura Cruz, Reyes, Diana Nieto Yáñez, Pedro Tomas Solís, José Martínez Flores, A. Ramírez Saldívar: A New Low Level Hybrid Algorithm for Bin Packing Problem. Polish Journal of Environmental Studies, Vol. 16, No. 5B, Hard, Poland (2007) 20-25\. ISSN: 1230-1485. 
+
+J. Pérez Ortega, L. Cruz, R., V. Landero Nájera, R. Pazos Rangel,V. Pérez Rosas, G. Zarate Rivera, G. Reyes Salgado: Explaining Performance of the Threshold Accepting algorithm for the Bin Packing Problem, a causal approach. Polish Journal of Environmental Studies, Vol. 16, No. 5B, Hard, Poland (2007) 72-76\. ISSN: 1230-1485\.  
+
+L.Cruz Reyes, E. Meza Conde, T. Turrubiates López, C. Guadalupe Gómez Santillán, R. Ortega Izaguirre: Experimental design for selection of characterization functions that allow discriminate among random, scale free and exponential networks. Polish Journal of Environmental Studies. Vol. 16, No. 5B, Hard, Poland (2007) 67-71\. ISSN: 1230-1485\.  
+
+R. Ortega Izaquirre, E. Meza Conde, C. Gómez Santillán, L. Cruz Reyes, T. Turrubiate López: Studying the Impact of Growing Dynamic in the Internet Topology. Polish Journal of Environmental Studies. Vol. 16, No. 5B, Hard, Poland (2007) 117-120\. ISSN: 1230-1485\. 
+
+Víctor J. SosaRodolfo PazosJuan G. GonzálezSantos CáceresLaura CruzMario Guillen,SoapFS: A Multiplatform File System, Lecture Notes in Computer Science ,3981,1 18-27,2006, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-34072-0-978-3-540-34074-4,https://doi.org/10.1007/11751588_3
+
+Joaquín Pérez O., Rodolfo A. Pazos R., Juan Frausto-Solís, Gerardo Reyes S., Rene Santaolaya S., Héctor J. Fraire H., Laura Cruz R.,An Approach for Solving Very Large Scale Instances of the Design Distribution Problem for Distributed Database Systems,Lecture Notes in Computer Science,3563,1 33-42,2005, ISSN I/O0302-9743-0302-9743, ISBN I/O 978-3-540-28063-7-978-3-540-31674-9,https://doi.org/10.1007/11533962_4
+
+Laura Cruz R.Joaquín PérezVanesa Landero N.Elizabeth S. del AngelVictor M. Álvarez,An Ordered Preprocessing Scheme for Data Mining, Lecture Notes in Artificial Intelligence ,3157,1 1007-1008,2004, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-22817-2-978-3-540-28633-2,https://doi.org/10.1007/978-3-540-28633-2_137
+
+Joaquin Perez O. Rodolfo A. Pazos R. Juan Frausto S. Laura Cruz R. Hector Fraire H. Elizabeth Santiago D. Norma E. Garcia A., A Machine Learning Approach for Modeling Algorithm Performance Predictors, Lecture Notes in Artificial Intelligence,3131,1 70-80,2004, ISSN I/O3029-743-1611-3349, ISBN I/O 978-3-540-22555-3-978-3-540-27774-3,https://doi.org/10.1007/978-3-540-27774-3_8
+
+Joaquín Pérez, Rodolfo A. Pazos, Juan Frausto S., Guillermo Rodríguez, David Romero, Laura Cruz, A Statistical Approach for Algorithm Selection, Lecture Notes in Computer Science ,3059,1 417-431,2004, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-22067-1-978-3-540-24838-5,https://doi.org/10.1007/978-3-540-24838-5_31
+
+Joaquín Pérez, Rodolfo A. Pazos, Juan Frausto Solis, Guillermo Rodríguez, Laura Cruz, Héctor Fraire, Comparison and Selection of Exact and Heuristic Algorithms, Lecture Notes in Computer Science ,3045,1 415-424,2004, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-22057-2-978-3-540-24767-8,https://doi.org/10.1007/978-3-540-24767-8_43
+
+Joaquín Pérez, Rodolfo A. Pazos, Juan Frausto Solis, Guillermo Rodríguez, Laura Cruz, Graciela Mora, Héctor Fraire, Self-Tuning Mechanism for Genetic Algorithms Parameters, an Application to Data-Object Allocation in the Web, Lecture Notes in Computer Science,3046,1 77-86,2004, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-22060-2-978-3-540-24768-5,https://doi.org/10.1007/978-3-540-24768-5_9
+
+Joaquín Pérez, Rodolfo A. Pazos, René S. Frausto, J. Guillermo Rodríguez, Laura Cruz Reyes, Maricela Bravo., Data-Object Replication, Distribution, and Mobility in Network Environments, Lectures Notes in computer Science ,2890,1 539-545,2003, ISSN I/O0302-9743-, ISBN I/O 978-3-540-20813-6-978-3-540-39866-0,https://doi.org/10.1007/978-3-540-39866-0_52
+
+Joaquín Pérez, Rodolfo Pazos, Héctor Fraire, Laura Cruz-Reyes, Johnatan Pecero, Adaptive Allocation of Data-Objects in the Web Using Neural Networks. Lectures Notes in Computer Science, Lecture Notes in Computer Science,2829,1 154-164,2003, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-20119-9-978-3-540-39853-0,https://doi.org/10.1007/978-3-540-39853-0_13
+
+Joaquín Pérez, Rodolfo Pazos, Juan Frausto s., David Romero, Laura Cruz-Reyes, Vertical Fragmentation and Allocation in Distributed Databases with Site Capacity Restrictions Using the Threshold Accepting Algorithm, Lectures Notes in computer Science,1793,1 75-81,2000, ISSN I/O0302-9743-1611-3349, ISBN I/O 978-3-540-67354-5-978-3-540-45562-2,https://doi.org/10.1007/10720076_7
 
 ## Book Chapters  
 
